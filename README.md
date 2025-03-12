@@ -96,6 +96,9 @@ Where I share in-depth tutorials, project walkthroughs, and tech insights.
 [![Blog](https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.hekmon.com)
 [![Jike](https://img.shields.io/badge/-Jike-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptLjUgMTQuMjVoLTF2LTIuNWgxdjIuNXptMi41LTcuNWgtMnY2aC0ydi02aC0ybC0xLTIuNSA2LjUgMSAxLjUgMS41eiIvPjwvc3ZnPg==&logoColor=black)](https://okjk.co/nFLeZa)
 
+## Other Links
+✅ [Cal](https://cal.com/hekmon)
+
 ---
 
 ⭐️ From [hekmon8](https://github.com/hekmon8)
