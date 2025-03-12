@@ -35,6 +35,12 @@ An innovative platform that generates personalized annual summaries of your digi
 - [AIMCP](https://www.aimcp.info/en) - A platform for Model Context Protocol documentation and resources, helping developers understand and implement MCP in their applications.
   - **Tech Stack**: Next.js, TypeScript, Tailwind CSS
   - **Status**: Active
+- [Mistral OCR](https://www.mistralocr.app/) - Extract text, images, tables, and formulas from images, PDFs, and scanned documents. Supports multiple languages and JSON output with MISTRAL OCR.
+  - **Tech Stack**: Next.js, TypeScript, Tailwind CSS
+     **Status**: Active
+- [Free OLM OCR](https://www.freeolmocr.com) - Extract text from any PDF/Image with OLMOCR. Powered by OLM and enhanced with AI, convert scanned documents into editable, searchable text in seconds, thanks to OLMOCR's efficiency.
+  - **Tech Stack**: Next.js, TypeScript, Tailwind CSS
+     **Status**: Active
 
 ### Mobile Apps
 - *Coming soon! Working on exciting new mobile experiences.*
