@@ -98,6 +98,8 @@ Where I share in-depth tutorials, project walkthroughs, and tech insights.
 
 ## Other Links
 ✅ [Cal](https://cal.com/hekmon)
+✅ [Creem](https://www.creem.io/bip/hekmon)
+✅ [Substack](https://substack.com/@hekmon8)
 
 ---
 
