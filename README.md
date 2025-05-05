@@ -41,6 +41,12 @@ An innovative platform that generates personalized annual summaries of your digi
 - [Free OLM OCR](https://www.freeolmocr.com) - Extract text from any PDF/Image with OLMOCR. Powered by OLM and enhanced with AI, convert scanned documents into editable, searchable text in seconds, thanks to OLMOCR's efficiency.
   - **Tech Stack**: Next.js, TypeScript, Tailwind CSS
      **Status**: Active
+- [Apps tracker](https://apps.hekmon.com) - Find iOS app available country
+  - **Tech Stack**: Next.js, TypeScript, Tailwind CSS
+     **Status**: Active
+- [AI card generator](https://card.hekmon.com) - Free online business vscode card generator
+  - **Tech Stack**: Next.js, TypeScript, Tailwind CSS
+     **Status**: Active
 
 ### Mobile Apps
 - *Coming soon! Working on exciting new mobile experiences.*
