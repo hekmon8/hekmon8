@@ -50,6 +50,7 @@ An innovative platform that generates personalized annual summaries of your digi
 - [AI strip markdown](https://stripmd.thistools.app) - Free online tools to strip markdown into plain text, power by AI
   - **Tech Stack**: React, TypeScript, Vite
   - **Status**: Active
+  - **FAQ**: [why use strip md](https://felo.ai/search/mJN9GzG2jfrZBsTZARGyET)
 - [Free index tts2](https://freeindextts.com/) - Free online tools to generate audio, power by IndexTTS2 AI
   - **Tech Stack**: React, TypeScript, Vite
   - **Status**: Active
