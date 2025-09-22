@@ -54,6 +54,9 @@ An innovative platform that generates personalized annual summaries of your digi
 - [Peak wiki](https://www.peakwiki.page) - Wiki for peak game
   - **Tech Stack**: React, TypeScript, Vite
   - **Status**: Active
+- [LoveMoney](https://lovemoneyonline.net) - Love Money game free to play online.
+  - **Tech**：React、OpenNext
+
 
 ### Mobile Apps
 - *Coming soon! Working on exciting new mobile experiences.*
