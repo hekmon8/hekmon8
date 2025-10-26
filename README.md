@@ -58,6 +58,8 @@ An innovative platform that generates personalized annual summaries of your digi
   - **Tech**：React、OpenNext
 - [The Tooth FAE](https://playthetoothfae.com/) - The Tooth FAE Free online.
   - **Tech**：React、OpenNext
+- [Puzzle Game](https://puzzlegameonline.org/) - The free puzzle game collection online.
+  - ** Tech**：React、OpenNext
 
 ### Mobile Apps
 - *Coming soon! Working on exciting new mobile experiences.*
